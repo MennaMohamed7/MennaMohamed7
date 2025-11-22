@@ -30,7 +30,7 @@ I’m a Data Analyst with a strong passion for converting raw data into meaningf
 With solid experience in data cleaning, visualization, and statistical analysis, I turn complex datasets into clear, impactful narratives that empower data-driven decisions.
 I specialize in exploratory data analysis (EDA), dashboard development, and data modeling to reveal key business insights and support smarter, more effective solutions.
   
-  - 🔭 **Currently working on:**  
+  - 🔭 **Currently working on:** Independent Freelance Work
   - 🌱 **Currently learning:** Data Analytics 
   - 💼 **Open to:** Data Analysis, Data Engineering  
   - 📫 **Reach me at:** mennamohamed7955@gmail.com
@@ -79,9 +79,13 @@ I specialize in exploratory data analysis (EDA), dashboard development, and data
 ## 📈 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MohamedMadian7&theme=neon&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="stats graph" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=MohamedMadian7&theme=neon&hide_border=false" height="150" alt="streak graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedMadian7&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=MennaMohamed7&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="stats graph" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=MennaMohamed7&theme=vision-friendly-dark&hide_border=false" height="150" alt="streak graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MennaMohamed7&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph" />
+
 </div>
+
+
 
 ![Snake Animation](https://github.com/MohamedMadian7/MohamedMadian7/blob/output/snake-dark.svg)
