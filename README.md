@@ -20,7 +20,7 @@
 
 ###
 
-<img align="right" height="180" src=".github/workflows/coding.gif" alt="data gif"/>
+<img align="right" height="180" src="photos/coding.gif" alt="data gif"/>
 
 ###
 
